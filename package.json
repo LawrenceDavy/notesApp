@@ -1,0 +1,22 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "A application that captures user notes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LawrenceDavy13/notesApp.git"
+  },
+  "keywords": [
+    "notes"
+  ],
+  "author": "Lawrence Davy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LawrenceDavy13/notesApp/issues"
+  },
+  "homepage": "https://github.com/LawrenceDavy13/notesApp#readme"
+}
